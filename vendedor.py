@@ -1,0 +1,3 @@
+class Vendedor:
+
+    pass
